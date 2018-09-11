@@ -1,0 +1,6 @@
+C:\Users\F0803\Downloads\AulaSolid\bin\Debug\AulaSolid.exe.config
+C:\Users\F0803\Downloads\AulaSolid\bin\Debug\AulaSolid.exe
+C:\Users\F0803\Downloads\AulaSolid\bin\Debug\AulaSolid.pdb
+C:\Users\F0803\Downloads\AulaSolid\obj\Debug\AulaSolid.csprojResolveAssemblyReference.cache
+C:\Users\F0803\Downloads\AulaSolid\obj\Debug\AulaSolid.exe
+C:\Users\F0803\Downloads\AulaSolid\obj\Debug\AulaSolid.pdb
